@@ -13,8 +13,8 @@ More than just viewing it as a technical aspect, voice recognition actually make
 
 Current generation finds it cool if the product is hands free. Thus, we provide a cross-platformed voice recognition feature which can be easily integrated with WebEx Teams.
 
+![alt text](https://github.com/Devang-25/CollabHacks-Project/blob/main/img/1.png?raw=true)
 
-!(https://github.com/Devang-25/CollabHacks-Project/tree/main/img/1.png)
 
 
 
@@ -28,6 +28,9 @@ The initial step is to enable voice recognition (eg., you can find an AppleScrip
 
 AppleScripts and Python scripts are developed for this purpose. Once the voice command is detected, a shell script is run to process it and provide the necessary information to integrate with WebEx Teams.
 
+![alt text](https://github.com/Devang-25/CollabHacks-Project/blob/main/img/2.png?raw=true)
+
+
 
 ## 2.WebEx integration: 
 
@@ -38,7 +41,17 @@ After the voice command is processed, it’s time to ask WebEx Teams to accompli
 Since the WebEx API and SDKs do not tie into one particular GUI, we also used the WebEx browser SDK to initiate a call using the browser. 
 Protocol handlers of WebEx app made it possible to use the Desktop application by using the handler and passing the username as an argument.
 
+
+![alt text](https://github.com/Devang-25/CollabHacks-Project/blob/main/img/3.png?raw=true)
+
+
+
 # DEMO LINK
+
+![alt text](https://github.com/Devang-25/CollabHacks-Project/blob/main/img/4.png?raw=true)
+
+
+
 https://youtu.be/retZDawHbSA
 
 

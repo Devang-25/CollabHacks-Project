@@ -14,7 +14,7 @@ More than just viewing it as a technical aspect, voice recognition actually make
 Current generation finds it cool if the product is hands free. Thus, we provide a cross-platformed voice recognition feature which can be easily integrated with WebEx Teams.
 
 
-![alt text](http://url/to/img.png)
+!(https://github.com/Devang-25/CollabHacks-Project/tree/main/img/1.png)
 
 
 
